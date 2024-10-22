@@ -34,7 +34,7 @@ The repository is organized as follows:
 - `sql/`: Includes SQL scripts for data cleaning, feature engineering, and analysis.
 - `README.md`: Provides an overview of the project, including its objectives, features, and structure.
 
-- ## Requirements
+## Requirements
 
 - SQL database management system (e.g., MySQL, PostgreSQL).
 - Basic understanding of SQL querying and data manipulation techniques.
